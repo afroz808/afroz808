@@ -63,7 +63,8 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/afroz808/afroz808/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/afroz808/afroz808/output/github-contribution-grid-snake.svg)
+
 
 ---
 
