@@ -72,4 +72,4 @@
 
 > 💥 *Give me logs, a Linux terminal, and some coffee — I’ll give you visibility.*  
 > 🧠 *I’m ready for real-world SOC. Are you ready to onboard me?* 😎  
-> ✅ [Download my Resume](#) — 
+> ✅ [Download my Resume](https://drive.google.com/drive/folders/1b_OQ6DuKBLvge-pEUUDJd42Jyq_oovx0) 
