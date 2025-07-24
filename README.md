@@ -18,7 +18,7 @@
 - 🎓 **B.C.S Graduate** from *Maulana Azad College*, affiliated with **Dr. Babasaheb Ambedkar University**
 - 🛡️ **SOC Analyst** with deep interest in **Blue Team**, **Log Analysis**, and **Incident Response**
 - ⚙️ Skilled in:  
-  `Splunk`, `Wazuh`, `rsyslog`, `Linux`, `Ubuntu`, `SIEM`, `Sysmon`, `Wireshark`, `Snort`, `Suricata`, `Nmap`
+  `Splunk`, `Wazuh`, `rsyslog`, `Linux`, `Ubuntu`, `SIEM`, `Wireshark`, `Snort`, `Suricata`, `Nmap`
 - 🧪 Actively practicing **log correlation**, **MITRE ATT&CK mapping**, and **alert tuning**
 - 📚 Always learning: `SOC L1/L2 processes`, `Threat Hunting`, `Firewall Logs`, `YARA Rules`
 - 💼 Looking for: **SOC Analyst / Blue Team / SIEM Engineer** opportunities
@@ -59,14 +59,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=afroz808&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
----
 
-## 🐍 Contribution Snake
-
-![GitHub Snake](https://raw.githubusercontent.com/afroz808/afroz808/output/github-contribution-grid-snake.svg)
-
-
----
 
 ## 📣 Why Hire Me?
 
