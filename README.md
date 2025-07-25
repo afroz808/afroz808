@@ -1,10 +1,12 @@
-<!-- WELCOME ANIMATED -->
+ <!-- WELCOME ANIMATED -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Afroz+Shaikh;SOC+Analyst+%7C+Blue+Team+Learner+%7C+Linux+Lover;Welcome+to+my+Cyber+Security+World+%F0%9F%94%90" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+<p <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+
 </p>
 
 ---
@@ -16,9 +18,9 @@
 - 🎓 **B.C.S Graduate** from *Maulana Azad College*, affiliated with **Dr. Babasaheb Ambedkar University**
 - 🛡️ **SOC Analyst** with deep interest in **Blue Team**, **Log Analysis**, and **Incident Response**
 - ⚙️ Skilled in:  
-  `Splunk`, `Wazuh`, `rsyslog`, `Linux`, `Ubuntu`, `SIEM`, `Wireshark`, `Snort`, `Suricata`, `Nmap`
+  Splunk, Wazuh, rsyslog, Linux, Ubuntu, SIEM, Wireshark, Snort, Suricata, Nmap
 - 🧪 Actively practicing **log correlation**, **MITRE ATT&CK mapping**, and **alert tuning**
-- 📚 Always learning: `SOC L1/L2 processes`, `Threat Hunting`, `Firewall Logs`, `YARA Rules`
+- 📚 Always learning: SOC L1/L2 processes, Threat Hunting, Firewall Logs, YARA Rules
 - 💼 Looking for: **SOC Analyst / Blue Team / SIEM Engineer** opportunities
 - 🔗 Connect with me:  
   📧 afrozshaikh8086@gmail.com  
@@ -42,40 +44,11 @@
 
 ## 📂 My Projects
 
-<h2 align="center">📂 Highlighted Projects</h2>
-
-<div align="center">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-
-    <!-- Project 1 -->
-    <a href="https://github.com/afroz808/Splunk-add-users" target="_blank" style="text-decoration: none;">
-      <div style="width: 280px; border: 2px solid #00ffff; border-radius: 15px; padding: 10px; background: #0d1117; transition: 0.3s ease; box-shadow: 0 0 10px #00ffff;">
-        <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" alt="Splunk" style="width: 100%; border-radius: 10px;">
-        <h3 align="center" style="color: #00ffff;">Splunk-add-users</h3>
-        <p align="center" style="color: #cccccc;">Role-based access in Splunk</p>
-      </div>
-    </a>
-
-    <!-- Project 2 -->
-    <a href="https://github.com/afroz808/Windows-Security-Log-Monitoring" target="_blank" style="text-decoration: none;">
-      <div style="width: 280px; border: 2px solid #00ffff; border-radius: 15px; padding: 10px; background: #0d1117; transition: 0.3s ease; box-shadow: 0 0 10px #00ffff;">
-        <img src="https://media.giphy.com/media/3o6ZsV4c4Nl6M0EEUU/giphy.gif" alt="Windows Log" style="width: 100%; border-radius: 10px;">
-        <h3 align="center" style="color: #00ffff;">Windows Log Monitoring</h3>
-        <p align="center" style="color: #cccccc;">Alerting for Windows Security Logs</p>
-      </div>
-    </a>
-
-    <!-- Project 3 -->
-    <a href="https://github.com/afroz808/rsyslog-log-forwarding-on-ubuntu" target="_blank" style="text-decoration: none;">
-      <div style="width: 280px; border: 2px solid #00ffff; border-radius: 15px; padding: 10px; background: #0d1117; transition: 0.3s ease; box-shadow: 0 0 10px #00ffff;">
-        <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="rsyslog" style="width: 100%; border-radius: 10px;">
-        <h3 align="center" style="color: #00ffff;">rsyslog forwarding</h3>
-        <p align="center" style="color: #cccccc;">Ubuntu log forwarding setup</p>
-      </div>
-    </a>
-
-  </div>
-</div>
+| 🔐 Project | Description | Link |
+|-----------|-------------|------|
+| Splunk-add-users | Role-based access in Splunk | [GitHub](https://github.com/afroz808/Splunk-add-users) |
+| Windows Security Log Monitoring | Parsing & alerting for Windows logs | [GitHub](https://github.com/afroz808/Windows-Security-Log-Monitoring) |
+| rsyslog forwarding | Log forwarding setup for Ubuntu | [GitHub](https://github.com/afroz808/rsyslog-log-forwarding-on-ubuntu) |
 
 ---
 
@@ -86,7 +59,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=afroz808&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
----
+
 
 ## 📣 Why Hire Me?
 
@@ -99,5 +72,6 @@
 
 > 💥 *Give me logs, a Linux terminal, and some coffee — I’ll give you visibility.*  
 > 🧠 *I’m ready for real-world SOC. Are you ready to onboard me?* 😎  
-> ✅ [Download my Resume](https://drive.google.com/drive/folders/1b_OQ6DuKBLvge-pEUUDJd42Jyq_oovx0)
+> ✅ [Download my Resume](https://drive.google.com/drive/folders/1b_OQ6DuKBLvge-pEUUDJd42Jyq_oovx0) 
+
 
