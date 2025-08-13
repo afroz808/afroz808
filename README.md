@@ -49,7 +49,7 @@
 | Splunk-add-users | Role-based access in Splunk | [GitHub](https://github.com/afroz808/Splunk-add-users) |
 | Windows Security Log Monitoring | Parsing & alerting for Windows logs | [GitHub](https://github.com/afroz808/Windows-Security-Log-Monitoring) |
 | rsyslog forwarding | Log forwarding setup for Ubuntu | [GitHub](https://github.com/afroz808/rsyslog-log-forwarding-on-ubuntu) |
-| IDS-Integrated-with-Splunk-on-Ubuntu| [GitHub](https://github.com/afroz808/-Snort-IDS-Integrated-with-Splunk-on-Ubuntu)
+| IDS-Integrated|Splunk-on-Ubuntu| [GitHub](https://github.com/afroz808/-Snort-IDS-Integrated-with-Splunk-on-Ubuntu)
 
 ---
 
